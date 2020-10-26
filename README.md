@@ -1,4 +1,4 @@
-# dark_quiz
+# Dark_Quiz_App
 
 A new Flutter application.
 <div>
