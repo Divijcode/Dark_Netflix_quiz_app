@@ -455,7 +455,7 @@ class _ThirdScreenState extends State<ThirdScreen> {
     return new Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.transparent,
-        title: const Text('DARK'),
+        title: const Text('D A Я K'),
       ),
       backgroundColor: Colors.grey.shade900,
       body: Column(
