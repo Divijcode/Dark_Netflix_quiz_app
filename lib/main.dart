@@ -14,6 +14,7 @@ Quizpage quizPage=Quizpage();
 
 void main(){
   runApp(new MaterialApp(
+    debugShowCheckedModeBanner: false,
     home: new MyApp(),
   ));
 }
