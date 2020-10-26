@@ -2,11 +2,11 @@
 
 A new Flutter application.
 <div>
-<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_211218.jpg" width="25%">
-<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_211222.jpg" width="25%">
-<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_204831.jpg" width="25%">
-<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_211531.jpg" width="25%">
-<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_205038.jpg" width="25%"></div>
+<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_211218.jpg" width="30%">
+<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_211222.jpg" width="30%">
+<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_204831.jpg" width="30%">
+<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_211531.jpg" width="30%">
+<img src ="https://github.com/Divijcode/Dark_Netflix_quiz_app/blob/master/Screenshots/Screenshot_20201026_205038.jpg" width="30%"></div>
 
 
 ## Getting Started
